@@ -15,6 +15,6 @@ I need to develop a CRM with Symfony that must contain :
 
 ------------
 
-Symfony 5.4
-PHP 8.1
-MySQL 8
+* Symfony 5.4
+* PHP 8.1
+* MySQL 8
