@@ -15,6 +15,26 @@ I need to develop a CRM with Symfony that must contain :
 
 ------------
 
-* Symfony 5.4
+## Development environment
+
+### Prerequisites :
+
 * PHP 8.1
-* MySQL 8
+* Composer
+* nodejs and npm
+
+You can check prerequisites with the following command:
+
+```bash
+composer require symfony/requirements-checker
+```
+
+### Prerequisites :
+
+```bash
+composer install
+npm install
+npm run build
+```
+
+You also need to create an .env file based on the .env.example file
