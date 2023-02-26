@@ -29,7 +29,7 @@ You can check prerequisites with the following command:
 composer require symfony/requirements-checker
 ```
 
-### Prerequisites :
+### Launch dev environment :
 
 ```bash
 composer install
